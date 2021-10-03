@@ -1,0 +1,6 @@
+{
+  "appTitle": "file_explorer",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
